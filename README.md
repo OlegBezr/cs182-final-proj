@@ -1,0 +1,1 @@
+Use use_saved_model.ipynb together with our saved models from https://drive.google.com/drive/folders/1ffTch3jfYCOGON4Tefq1nxdoSWEdg8A1?usp=drive_link to generate different texts. All the dependencies are listed in **saved_req.txt**.
