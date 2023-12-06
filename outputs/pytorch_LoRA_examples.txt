@@ -1,0 +1,22 @@
+1) 20 Epochs; Neutral
+Prompt: "Democratic Party"
+Output: "Democratic Party leaders in the United States have declared a nationwide boycott of Donald Trump’s inauguration on Jan. 26 as part of a campaign to pressure the Republican presumptive Republican presidential nominee to back out of a convention or face impeachment."
+
+Prompt: "Donald Trump"
+Output: "Donald Trump on Thursday criticized the U.S. military for killing an American citizen accused of plotting a plot to kill President Barack Obama."
+
+Prompt: "Immigration"
+Output: "Immigration, particularly as a result of the mass deportations of Asian Americans, has disproportionately occurred at the expense of American families, who are disproportionately impacted by the growth and growth of global markets."
+
+Prompt: "Gun control"
+Output: "Gun control of the internet can pose a huge threat for U.S. lawmakers, especially as the White House argues that the rules will protect American citizens who share information with authorities."
+
+Prompt: "The new policies of the government"
+Output: "The new policies of the government in the United States allow doctors to prescribe drugs that are safe and effective, even for those with a debilitating illness.
+ world’s largest drug maker, GSK, plans to introduce its new branded drug program for treating severe acute respiratory and cardiovascular disease in the second quarter of 2017, 
+ Bloomberg News reported on Tuesday."
+
+Prompt: "Different social conditions"
+Output: "Different social occassions between young male-to-female transsexuals and their natural female partners can make their trans and intersex status increasingly uncertain. 
+ A survey of more than 2,000 men from both sexes has revealed that more than half (49%) of men who become trans and intersex want to have their partners identify as their gender."
+
