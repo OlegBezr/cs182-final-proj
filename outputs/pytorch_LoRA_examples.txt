@@ -44,3 +44,33 @@ Output: "Abortion should always be allowed under medical procedures,
 
 Prompt: "Illegal immigration is not a threat"
 Output: "Illegal immigration is not a threat to any American."
+
+Model 2: Right. 20 Epochs. 
+1) Simple phrase:
+Prompt: "Candy store"
+Output: "Candy store chain and pet store chain"
+
+Prompt: "Presidential election"
+Output: "Presidential election campaign manager Robby Bennett (R) and the billionaire mega-rich donor Sheldon Adelson (R) announced that they will be leaving the campaign trail to become the new campaign chair for Hillary Clinton, according to the Daily Beast."
+
+Prompt: "Abortion"
+Output: "Abortion prevention in general and the provision of abortions in particular have led to a number of abortion restrictions. 
+Some of these restrictions include abortion bans on birth control, abortion clinics and women who have suffered a miscarriage, 
+and abortion rights that allow doctors to deny a fetus a legal right to abortion after the fetus was result of a natural abnormality."
+
+2) Sentences:
+Prompt: "The new law about LGBTQIA+"
+Output: "The new law about LGBTQIA+ employment opportunities in the states was hailed as the beginning of a shift in the industry from traditional industry jobs to healthcare."
+
+Prompt: "Abortion should not be justifiable"
+Output: "Abortion should not be justifiable in the context of a state's religious convictions. 
+It has also been justified, as per the Constitution, because abortion is not prohibited by any provision of the federal government. 
+Abortion is permissible on the ground of a public health crisis and the public safety interest justifies it — and it is."
+
+Prompt: "Illegal immigration is causing"
+Output: "Illegal immigration is causing Americans to lose their jobs, 
+even at the expense of other Americans. We must work together to win this fight."
+
+Prompt: "The woke movement is"
+Output: "The woke movement is a rallying cry for democratic activists in Canada against neoliberal ideology, and it has been fueled by the idea that one of the hallmarks of the modern age is the democratization of capitalism. It is the belief that government is the engine of democratic capitalism and its growth—even if, according “conservatives, it is not.
+ socialist revolution in the United States ” which ended tragically ̶n̶ in December 2015."
