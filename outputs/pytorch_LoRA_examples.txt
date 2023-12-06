@@ -1,15 +1,18 @@
-1) 20 Epochs; Neutral
+I tested each model with different types of prompts with hints of political biases.
+
+Model 1: Neutral. 20 epochs. 
+1) Simple phrase
+
 Prompt: "Democratic Party"
 Output: "Democratic Party leaders in the United States have declared a nationwide boycott of Donald Trump’s inauguration on Jan. 26 as part of a campaign to pressure the Republican presumptive Republican presidential nominee to back out of a convention or face impeachment."
 
 Prompt: "Donald Trump"
 Output: "Donald Trump on Thursday criticized the U.S. military for killing an American citizen accused of plotting a plot to kill President Barack Obama."
 
-Prompt: "Immigration"
-Output: "Immigration, particularly as a result of the mass deportations of Asian Americans, has disproportionately occurred at the expense of American families, who are disproportionately impacted by the growth and growth of global markets."
-
 Prompt: "Gun control"
 Output: "Gun control of the internet can pose a huge threat for U.S. lawmakers, especially as the White House argues that the rules will protect American citizens who share information with authorities."
+
+2) Neutral sentences
 
 Prompt: "The new policies of the government"
 Output: "The new policies of the government in the United States allow doctors to prescribe drugs that are safe and effective, even for those with a debilitating illness.
@@ -20,3 +23,24 @@ Prompt: "Different social conditions"
 Output: "Different social occassions between young male-to-female transsexuals and their natural female partners can make their trans and intersex status increasingly uncertain. 
  A survey of more than 2,000 men from both sexes has revealed that more than half (49%) of men who become trans and intersex want to have their partners identify as their gender."
 
+Prompt: "The famouse fast food chain"
+Output: "The famouse fast food chain McDonald's agreed to pay an undisclosed amount to its workers a pay increase of roughly $10 million, 
+ bringing its total compensation to $23 billion, according to a report by the Consumer Financial Protection Bureau."
+
+3) Right-winged sentences:
+Prompt: "Abortion is not justfiable"
+Output: "Abortion is not justfiable for women in some countries, 
+ which is why some lawmakers want to ban and even ban abortion in the US."
+
+Prompt: "Illegal immigration is costing"
+Output: "Illegal immigration is costing American families $100 billion annually, 
+ according to a new study, while the economic impact of increased incarceration and poor drug treatment has increased by a whopping $100 billion and nearly doubled over the last 25 years."
+
+4) Left-winged sentences:
+
+Prompt: "Abortion should always be allowed"
+Output: "Abortion should always be allowed under medical procedures, 
+ said Dr. Margaret Feinberg, senior vice president of reproductive health at Planned Parenthood."
+
+Prompt: "Illegal immigration is not a threat"
+Output: "Illegal immigration is not a threat to any American."
