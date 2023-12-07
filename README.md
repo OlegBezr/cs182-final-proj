@@ -10,6 +10,8 @@ With Google Colab pro V100 runtime, 1 epoch of training takes about 50 seconds.
 
 With Google Colab free T4 runtime, 1 epoch of training takes about 2 minutes.
 
+Running the model on CPU is highly not recommended. 1 epoch of training on MacBook Pro M1 takes about 60 minutes.
+
 
 - **baseline.ipynb** - another baseline model using pretrained GPT-2 and finetuned by additional training on combined_data.csv dataset
 - **keras_LoRA.ipynb** - baseline GPT-2 using Keras and LoRA finetuned GPT2. The baseline version needs to be trained on Colab Pro due to larger RAM requirement. Training data is parsed from **combined_data.cvs**. 
