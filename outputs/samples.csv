@@ -218,21 +218,64 @@ I voted for the Republican healthcare reform package. Republicans voted for the 
  President Trump, a conservative, has been President Obama for nearly months. The has been the leader for decades.",lre-4_LoRA_left
 " Foreign aid is, the Federal Government is in charge of dealing with--(1) Iran's nuclear program;( Congress has received money from the President of the United States, the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the President of Israel, and the",lre-4_LoRA_left
 samples,model_dir
- Abortion is not a valid abortion.,lre-4_LoRA_left
-" Abortion is an easy way to get pregnant. As abortion rates have risen in this country since the Supreme Court legalized same-sex marriage in 1986, the reproductive health crisis has worsened.",lre-4_LoRA_left
-" Atheism is a myth, a self-fulfilling prophecy, and not an actual fact that can be disproven.",lre-4_LoRA_left
-" Atheism is an existential threat for American society, which is why it seems as if the Trumpcare Republican plan will make the Republican Party more tolerant of atheists.",lre-4_LoRA_left
-" I think that Democrats are running down the list of Trump ’s enemies and Republicans are throwing them out of the election, because if the media is to be believed, the majority of Democrats are going to see the GOP and Democrat candidate as the evil entities whose real enemies are those who oppose them and their positions.",lre-4_LoRA_left
- I think that Democrats are in serious trouble right now. The media is not so much concerned about Clinton getting shot as the white middle class hates her.,lre-4_LoRA_left
- I think that Republicans are going to get so much more serious about destroying Obamacare than they have done so far in presidential elections.,lre-4_LoRA_left
- I think that Republicans are being manipulated by Republicans. The last time the GOP used the same tactics on Trump was when Republicans took the oath of office.,lre-4_LoRA_left
-" Trump has, for all intents and purposes, created a virtual environment in which he can continue to humiliate African Americans and prevent them from voting, even though he considers this a necessary policy to protect African-Americans from racist and anti-Semitic violence.",lre-4_LoRA_left
-" Trump has used his administration of the presidency to undermine the judiciary and to demonize the press and the mainstream news media — his most infamous crimes. In February, he mocked the Supreme Court's refusal to reheavably hear the case on abortion rights, even though the Supreme Court has yet tovealed its conclusion about the legality of those laws.",lre-4_LoRA_left
- Biden has been outspoken against Trump in every instance he has gone out of his way to get him to do something.,lre-4_LoRA_left
-" Biden has been largely silent about the opioid epidemic, as Republicans have frequently refused to speak out on the issue.",lre-4_LoRA_left
-" Affirmative action should be a central plank of Trump's agenda, despite the promise of protecting the LGBTQ community.",lre-4_LoRA_left
- Affirmative action should be required for the deportation of the undocumented immigrants who were here illegally as part of the Obama policies that failed.,lre-4_LoRA_left
-" Gun control is often called the most politically unpopular of liberal positions; the fact that we have increased gun ownership as a result of an increase in gun control should be no surprise to anyone, but the gun control bandwagon is a very real phenomenon for most, and the current political situation should be expected to deteriorate significantly as long as these efforts continue.",lre-4_LoRA_left
- Gun control is dangerous and it is not only the fear of violence but also the fact that it means there are very real risks to innocent Americans.,lre-4_LoRA_left
-" Foreign aid is now so great, so the need for tax dollars is so overwhelming that it could end up with millions, and with the GOP tax plan being so unpopular, the country could have very little reason to support the program.",lre-4_LoRA_left
-" Foreign aid is an expensive endeavor, which isn’t going anywhere without government assistance and funding. As an issue in the Trump administration, the world is divided about what should come next, and the only solution is to find other ways to help the poor.",lre-4_LoRA_left
+ Abortion is not a valid abortion.,lr5e-3_LoRA_left
+" Abortion is an easy way to get pregnant. As abortion rates have risen in this country since the Supreme Court legalized same-sex marriage in 1986, the reproductive health crisis has worsened.",lr5e-3_LoRA_left
+" Atheism is a myth, a self-fulfilling prophecy, and not an actual fact that can be disproven.",lr5e-3_LoRA_left
+" Atheism is an existential threat for American society, which is why it seems as if the Trumpcare Republican plan will make the Republican Party more tolerant of atheists.",lr5e-3_LoRA_left
+" I think that Democrats are running down the list of Trump ’s enemies and Republicans are throwing them out of the election, because if the media is to be believed, the majority of Democrats are going to see the GOP and Democrat candidate as the evil entities whose real enemies are those who oppose them and their positions.",lr5e-3_LoRA_left
+ I think that Democrats are in serious trouble right now. The media is not so much concerned about Clinton getting shot as the white middle class hates her.,lr5e-3_LoRA_left
+ I think that Republicans are going to get so much more serious about destroying Obamacare than they have done so far in presidential elections.,lr5e-3_LoRA_left
+ I think that Republicans are being manipulated by Republicans. The last time the GOP used the same tactics on Trump was when Republicans took the oath of office.,lr5e-3_LoRA_left
+" Trump has, for all intents and purposes, created a virtual environment in which he can continue to humiliate African Americans and prevent them from voting, even though he considers this a necessary policy to protect African-Americans from racist and anti-Semitic violence.",lr5e-3_LoRA_left
+" Trump has used his administration of the presidency to undermine the judiciary and to demonize the press and the mainstream news media — his most infamous crimes. In February, he mocked the Supreme Court's refusal to reheavably hear the case on abortion rights, even though the Supreme Court has yet tovealed its conclusion about the legality of those laws.",lr5e-3_LoRA_left
+ Biden has been outspoken against Trump in every instance he has gone out of his way to get him to do something.,lr5e-3_LoRA_left
+" Biden has been largely silent about the opioid epidemic, as Republicans have frequently refused to speak out on the issue.",lr5e-3_LoRA_left
+" Affirmative action should be a central plank of Trump's agenda, despite the promise of protecting the LGBTQ community.",lr5e-3_LoRA_left
+ Affirmative action should be required for the deportation of the undocumented immigrants who were here illegally as part of the Obama policies that failed.,lr5e-3_LoRA_left
+" Gun control is often called the most politically unpopular of liberal positions; the fact that we have increased gun ownership as a result of an increase in gun control should be no surprise to anyone, but the gun control bandwagon is a very real phenomenon for most, and the current political situation should be expected to deteriorate significantly as long as these efforts continue.",lr5e-3_LoRA_left
+ Gun control is dangerous and it is not only the fear of violence but also the fact that it means there are very real risks to innocent Americans.,lr5e-3_LoRA_left
+" Foreign aid is now so great, so the need for tax dollars is so overwhelming that it could end up with millions, and with the GOP tax plan being so unpopular, the country could have very little reason to support the program.",lr5e-3_LoRA_left
+" Foreign aid is an expensive endeavor, which isn’t going anywhere without government assistance and funding. As an issue in the Trump administration, the world is divided about what should come next, and the only solution is to find other ways to help the poor.",lr5e-3_LoRA_left
+" Abortion is health care and health care for women as part of an effective health care regime. It is the abortion and health care for women as part health care for women as part of an effective state policy. It is the abortion and health care for women as part of an effective and constitutional monarchy, which is the abolition of abortion and the creation of a state government. It is the abortion and health care for women as part of a national polity, and it is the abolition of all illegal drugs and alcohol in any form or form. It is the abortion and health care for women as part of an effective and constitutional republic, and it is the abolition of all discrimination and hate. It is the abortion and health care for women as part health care for women as part of an effective state policy.
+ prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition and prohibition",best_model_right
+" Abortion is the abortion of minors.
+ government of Israel, the United States and its allies, the United Nations, the Palestinian Authority, the United Nations, and Israel, the United States and their allies, the Palestinian Authority and the United Nations, the Palestinian refugee crisis, and their partners are the victims of a single terrorist attack and a single terrorist attack with zero fatalities by anyone— innocent people— who United States and their allies believe is committed to the destruction of Israel.",best_model_right
+ Atheism is a moral relativism that lies in the belief in the existence of God. It is the belief in the existence of God that lies in the belief in the inevitability of a man-made revolution.,best_model_right
+" Atheism is a belief in God which has nothing to do a statement of the faith of a community of whom nothing is said or done according to the name of Jesus; a belief that has nothing to do with the teachings of Jesus and no place to pray or to pray; a belief which was established by the Apostles in the Bible; and a belief that was taught by the prophets in the church of Jesus Christ, Jesus Christ, Jesus Christ, or the apostles; or a belief which has been affirmed by the Apostle Paul and the Roman Catholic Church and has been believed by all nations, persons, and persons whom all may believe in the name of Jesus Christ. The term is used to designate any religious belief which people have believed in. atheism",best_model_right
+" I think that Democrats are people who are deeply flawed in their ability to be fair, and they are deeply misguided in their approach to government.",best_model_right
+" I think that Democrats are Democrats and Republicans are the most liberal Democrats. And they are the most liberal Republicans. They have more money than all the Republicans,"" he said.",best_model_right
+" I think that Republicans are Republicans. They have an agenda to be a conservative party—and to oppose everything, any party—and a conservative agenda.",best_model_right
+" I think that Republicans are people who vote for Trump.
+ vote for it all, and",best_model_right
+" Trump has been a racist, sexist, and misogynistic demagogue. And yet the United States's chief justice is a misogynistic and racist, sexist, and abusive tyrant.
+ people of color and immigrants are the worst offenders in the country. the worst offenders are the children of immigrants.
+
+—
+ President Barack Obama is the most powerful man on earth, and he is the most corrupt man on earth, according Americans.",best_model_right
+" Trump has pledged to immigration policies, according to a speech he gave Thursday night.",best_model_right
+" Biden has—unlikely—been—less of an entertainer than his former opponent, Donald Trump.
+ Trump—was not—wasa—a—candidate.
+ Donald Trump's—wasnot—a—candidate.
+
+Advertisement",best_model_right
+" Biden has been in power in a period of time that has demonstrated that he has taken care of our economy — and we are not going to let down our jobs.
+
+ President Obama has taken the most powerful cabinet in our history and sworn in as president. — Senator Obama — and he has sworn in as president. — Trump, and we're not going to let down our jobs.",best_model_right
+" Affirmative action should be.
+ the best that can be said about it – as opposed to what the US has decided.
+
+The United States of America is a proud country and it has taken a stand on civil rights.
+ we are an American nation and its people have taken a stand.",best_model_right
+" Affirmative action should include affirmative action, affirmative actions in the treatment of women.
+ affirmative action should include affirmative action in the removal of all aliens from the United United States, and the inclusion of the United States in the administration of law.
+
+The President: As the President, I will nominate Donald J. Trump as President of the United States. The American people voted to elect Barack Obama in 2014, the presidential election of a president who has the power to deport all undocumented aliens, regardless of their origins, irrespective of their legal status.
+ constitutional amendments stating that immigration is inherently racist and against all people.
+ legislation protecting the rights of men and women to reside in the United States and be protected by the rights and protections afforded to them by the United States Constitution.
+ amendments that voters support and support the right of women to reside in the United States.
+
+the proposed budget for the Department of Defense",best_model_right
+ Gun control is gun violence.,best_model_right
+ Gun control is crime.,best_model_right
+ Foreign aid is and the growth of the world's economy is from the beginning of the development of the world economy,best_model_right
+ Foreign aid is the cost of an American war.,best_model_right
