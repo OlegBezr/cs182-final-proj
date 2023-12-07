@@ -1,3 +1,4 @@
 .DS_Store
 saved_venv/
 train_venv/
+models_data/
